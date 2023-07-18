@@ -16,6 +16,12 @@ Once trained, ML models can be used to make predictions or decisions on new, uns
 ※ SVM (SUPPORT VECTOR MACHINE)
 
 ※ NAIVE BAYE'S CLASSIFIER
+
+
+
+**LOGISTIC REGRESSION :**
+
+      It's a supervised ML algorithm majorly used for classification related problems. It works by classifying the datapoints by implementing a sigmoid curve.  Its a shaped curve. 
  
 
 
