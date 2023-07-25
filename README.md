@@ -9,7 +9,7 @@ ML algorithms can be categorized into three main types: supervised learning, uns
 ML models require training data, which consists of input examples and their corresponding correct outputs or labels. During the training process, the model adjusts its internal parameters to minimize the difference between its predicted outputs and the true labels.
 Once trained, ML models can be used to make predictions or decisions on new, unseen data. The performance of ML models is typically evaluated using various metrics, such as accuracy, precision, recall, and F1 score, depending on the specific task and problem domain.ML finds applications in numerous fields, including image and speech recognition, natural language processing, recommendation systems, autonomous vehicles, finance, healthcare, and many others. It has the potential to automate tasks, gain insights from large datasets, improve decision-making processes, and enable the development of intelligent systems.
 
-**Models that we are working:**
+**Models that I practiced:**
 
 ※ LOGISTIC REGRESSION
 
@@ -19,9 +19,15 @@ Once trained, ML models can be used to make predictions or decisions on new, uns
 
 
 
+
 **LOGISTIC REGRESSION :**
 
       It's a supervised ML algorithm majorly used for classification related problems. It works by classifying the datapoints by implementing a sigmoid curve.  Its an "S" shaped curve. 
+
+
+**SVM (SUPPORT VECTOR MACHINE):**
+
+      It is also an supervised classification model.It works by vectors in the frame.It forms a hyperplane between vectors and classifies them into different classes. More complex problems would have higher dimensional space for classification.
  
 
 
