@@ -21,7 +21,7 @@ Once trained, ML models can be used to make predictions or decisions on new, uns
 
 **LOGISTIC REGRESSION :**
 
-      It's a supervised ML algorithm majorly used for classification related problems. It works by classifying the datapoints by implementing a sigmoid curve.  Its a shaped curve. 
+      It's a supervised ML algorithm majorly used for classification related problems. It works by classifying the datapoints by implementing a sigmoid curve.  Its an "S" shaped curve. 
  
 
 
