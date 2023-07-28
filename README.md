@@ -28,8 +28,15 @@ Once trained, ML models can be used to make predictions or decisions on new, uns
 **SVM (SUPPORT VECTOR MACHINE):**
 
       It is also an supervised classification model.It works by vectors in the frame.It forms a hyperplane between vectors and classifies them into different classes. More complex problems would have higher dimensional space for classification.
- 
 
+
+**NAIVE BAYE'S CLASSIFIER:**
+
+      It is also an supervised classification model. It works based on probablity of words. These models are mostly used for classsifiying spam mails and sentimental analysis.There are three types of Naives Bayes algorithms. 
+            i) Guassian 
+            ii) Bernouili
+            iii) Mutinomial 
+      
 
 
 
